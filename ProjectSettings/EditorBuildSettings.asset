@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Rayroom.unity
+    guid: 8dc508e5ffcde6b4d896dce94f9f4883
+  - enabled: 1
+    path: Assets/Scenes/JuliaRoom.unity
+    guid: 2fe292e37375e154f82410a99d2e9901
+  - enabled: 1
+    path: Assets/Scenes/TobyRoom.unity
+    guid: ec38b8e6f1645e44f807f5f597994c12
+  - enabled: 1
+    path: Assets/Scenes/DabeerRoom.unity
+    guid: d6a7580dbbefc75429fdbbbffbbb64ac
+  m_configObjects: {}
